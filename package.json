@@ -1,0 +1,16 @@
+{
+  "name": "grupe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "boolean": "node --watch ./data-types/boolean.js",
+    "string": "node --watch ./data-types/string.js",
+    "number": "node --watch ./data-types/string.js",
+    "methods:string": "node --watch ./methods/string.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rolandas",
+  "license": "MIT"
+}
