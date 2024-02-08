@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "number-sum": "node --watch ./exercises/number-sum.js",
+    "for": "node --watch ./loops/for.js",
     "array": "node --watch ./data-types/array.js",
     "typeof": "node --watch ./compare/typeof.js",
     "function": "node --watch ./functions/function.js",
@@ -11,7 +13,7 @@
     "if": "node --watch ./compare/if.js",
     "boolean": "node --watch ./data-types/boolean.js",
     "string": "node --watch ./data-types/string.js",
-    "number": "node --watch ./data-types/string.js",
+    "number": "node --watch ./data-types/number.js",
     "methods:string": "node --watch ./methods/string.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
