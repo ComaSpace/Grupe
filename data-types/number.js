@@ -29,6 +29,27 @@ console.log(k);
 k /= 3;
 console.log(k);
 console.clear();
+
+let i = 0;
+console.log(i);
+
+i = i - 1;
+console.log(i);
+
+i = i - 1;
+console.log(i);
+
+i -= 1;
+console.log(i);
+
+i -= 1;
+console.log(i);
+
+i--;
+console.log(i);
+
+i--;
+console.log(i);
 // dydinimas vyksta po panaudojimo (spausdinimo)
 let p = 0;
 console.log(p);
