@@ -28,5 +28,23 @@ console.log(k);
 
 k /= 3;
 console.log(k);
+console.clear();
+// dydinimas vyksta po panaudojimo (spausdinimo)
+let p = 0;
+console.log(p);
+console.log(p++);
+console.log(p++);
+console.log(p++);
+console.log(p++);
+console.log(p++);
 
+console.log('----------');
 
+// dydinimas vyksta pries panaudojima (spausdinima)
+let r = 0;
+console.log(r);
+console.log(++r);
+console.log(++r);
+console.log(++r);
+console.log(++r);
+console.log(++r);
