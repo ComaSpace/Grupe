@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "methods:array": "node --watch ./methods/array.js",
+    "methods:string2": "node --watch ./methods/string2.js",
     "for-in": "node --watch ./loops/for-in.js",
     "while": "node --watch ./loops/while.js",
     "for-of": "node --watch ./loops/for-of.js",
