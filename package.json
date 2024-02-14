@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "name-format": "node --watch ./exercises/name-format.js",
     "remove-negative": "node --watch ./exercises/remove-negative.js",
     "reverse": "node --watch ./exercises/reverse.js",
     "methods:array": "node --watch ./methods/array.js",
