@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "map": "node --watch ./methods/map.js",
+    "hof": "node --watch ./functions/hof.js",
     "arrow": "node --watch ./functions/arrow.js",
     "name-format": "node --watch ./exercises/name-format.js",
     "remove-negative": "node --watch ./exercises/remove-negative.js",

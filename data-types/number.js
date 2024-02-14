@@ -50,6 +50,9 @@ console.log(i);
 
 i--;
 console.log(i);
+
+console.clear();
+
 // dydinimas vyksta po panaudojimo (spausdinimo)
 let p = 0;
 console.log(p);
