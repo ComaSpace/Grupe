@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "name": "node --watch ./exercises/name.js",
     "map": "node --watch ./methods/map.js",
     "hof": "node --watch ./functions/hof.js",
     "arrow": "node --watch ./functions/arrow.js",
