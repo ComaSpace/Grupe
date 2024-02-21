@@ -6,8 +6,8 @@ import Dog from "./Dog.js";
 import Cat from "./Cat.js";
 import Hamster from "./Hamster.js";
 
-const rexas = new Dog('Rexas', 'brown');
-const brisius = new Dog('Brisius', 'white');
+const rexas = new Dog('Rexas', 'brown', 'bark');
+const brisius = new Dog('Brisius', 'white', 'au');
 console.log(rexas.intro());
 console.log(brisius.intro());
 
