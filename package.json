@@ -5,6 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "number-name": "node --watch ./exercises/number-name.js",
     "animals": "node --watch ./class/index.js",
     "class": "node --watch ./functions/class.js",
     "math": "node --watch ./methods/math.js",
