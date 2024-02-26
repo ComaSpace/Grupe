@@ -16,3 +16,5 @@ class Dog extends Pet {
 }
 
 export default Dog;
+
+

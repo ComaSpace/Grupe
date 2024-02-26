@@ -36,3 +36,4 @@ for (const key in car) {
     const value = car[key];
     console.log(key, value);
 }
+
